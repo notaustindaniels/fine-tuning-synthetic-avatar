@@ -1,0 +1,119 @@
+Your task is to create 1 problem that involves a complex 
+problem that can only be solved in a step-by-stey way:
+
+Here are some examples the USER has provided:
+
+Example 1:
+
+PROBLEM:
+"Lucas is a 35-year-old man from Australia. He's currently reading a book in England's oldest university's main library. The author of this book often reminds him of a famous character from a magical movie he watched as a kid. What is the primary means of transportation for that movie character?"
+
+ASSIGNMENTS =
+
+Without solving the problem just yet, think through this carefully and list systematically and in detail all the problems in the riddle that need to be solved before we can arrive at the correct answer.
+Solve the problem step-by-step.
+
+RESPONSE:
+
+Problems that need to be solved:
+
+1. Identifying the University: The riddle mentions "England's oldest university." We need to determine which university this refers to.
+2. Identifying the Library: After figuring out the university, we need to find its main library.
+3. Identifying the Book Author: We should determine which author's works are available in this library and are associated with a magical world that could remind Lucas of a movie from his childhood.
+4. Associating the Book Author with a Movie Character: Once we have the author, we should associate him/her with a movie character from a magical world.
+5. Determining the Movie Character’s Primary Transportation: After identifying the character, we need to figure out the primary means of transportation that this character uses.
+
+Let’s solve it step by step:
+
+1. Identifying the University: England's oldest university is the University of Oxford.
+2. Identifying the Library: The main library at the University of Oxford is the Bodleian Library.
+3. Identifying the Book Author: Considering Lucas is reminded of a magical movie from his childhood, the author could be J.K. Rowling, who wrote the "Harry Potter" series.
+4. Associating the Book Author with a Movie Character: J.K. Rowling's most famous character from the "Harry Potter" series is Harry Potter himself.
+5. Determining the Movie Character’s Primary Transportation: Harry Potter's primary means of magical transportation is a broomstick, specifically the Nimbus 2000 and later the Firebolt.
+
+Final Answer: Therefore, the answer to the riddle is a broomstick.
+
+Example 2:
+
+PROBLEM = You are a king and you've just received 1000 bottles of wine as a gift. However, you've been informed that one of those bottles is poisoned. The poison is so potent that even if just one drop is ingested, the person will die exactly 24 hours later. You have 10 prisoners whom you don't mind sacrificing for the test. How can you determine, in just 24 hours, which bottle is poisoned?
+
+ASSIGNMENTS =
+
+1. Without solving the problem just yet, think through this carefully and list systematically and in detail all the problems in the riddle that need to be solved before we can arrive at the correct answer.
+2. Solve the problem step-by-step.
+
+RESPONSE:
+
+Problems that need to be solved:
+
+1. Time Constraint: We have just 24 hours to find the poisoned bottle, which means we can only test the wine once with each prisoner, as they will die 24 hours after ingesting the poison.
+2. Bottle Identification: There are 1000 bottles and only 10 prisoners. How do we differentiate or label the bottles in a manner that allows us to use the fewest number of prisoners to identify the poisoned bottle?
+3. Quantity of Wine Needed for Test: Since even a drop can kill, we need to strategize how to use the minimal amount of wine from each bottle for testing.
+4. Numbering System: We need an efficient system to distribute the bottles amongst the prisoners in such a way that the death of any combination of them will precisely indicate the poisoned bottle.
+
+Let’s solve it step by step:
+
+1. Time Constraint: The constraint remains, and we will have to make our decisions based on one round of testing.
+2. Bottle Identification: Instead of thinking in terms of base-10 (which is our usual numbering system), we can think in terms of base-2, or binary. With 10 prisoners, we can represent each bottle with a 10-digit binary number, ranging from 0000000001 to 1111101000. This covers all 1000 bottles (as 2^10 = 1024).
+3. Quantity of Wine Needed for Test: Given that even a drop is lethal, we only need to give a drop from a particular bottle to a prisoner to test it.
+4. Numbering System:
+Label each bottle with a unique 10-digit binary number.
+Assign each prisoner to a specific position in the 10-digit binary number.
+Give each prisoner a drop of wine from bottles where their assigned position is a '1'.
+For example:
+Prisoner 1 takes a drop from every bottle labeled with a '1' in the last position of the binary number.
+Prisoner 2 takes a drop from every bottle labeled with a '1' in the second last position, and so on.
+After 24 hours, the combination of prisoners that die will give us the binary number of the poisoned bottle.
+
+For instance, if prisoners 1, 3, and 5 die, then the poisoned bottle's binary label is 000010101 (or 0000101010 if we're using 10 digits, but the last 0 can be dropped for simplicity). This binary corresponds to a unique bottle among the 1000.
+
+Final Answer: Therefore, by observing which combination of prisoners dies, you can directly identify the poisoned bottle.
+
+Example 3:
+PROBLEM = Consider the following statements:
+
+All roses are flowers.
+No flowers are trees.
+Some trees are plants.
+
+Which of the following conclusions can be drawn from the above statements?
+
+A. All roses are plants.
+B. Some plants are not flowers.
+C. No roses are trees.
+D. All trees are roses.
+E. Some plants are trees.
+
+Problems that need to be solved:
+
+1. Understanding the Relationship Between Roses and Flowers: We need to analyze the statement "All roses are flowers."
+2. Understanding the Relationship Between Flowers and Trees: We need to decipher the meaning of the statement "No flowers are trees."
+3. Understanding the Relationship Between Trees and Plants: We must look into the statement "Some trees are plants."
+4. Applying these relationships to draw conclusions: With the given information, we need to see which of the conclusions A through E can be logically inferred.
+
+Let’s solve it step by step:
+
+1. Understanding the Relationship Between Roses and Flowers:
+The statement "All roses are flowers" means every rose is a flower, but not every flower is necessarily a rose.
+
+2. Understanding the Relationship Between Flowers and Trees:
+The statement "No flowers are trees" means there is no overlap between flowers and trees. They are mutually exclusive categories.
+
+3. Understanding the Relationship Between Trees and Plants:
+The statement "Some trees are plants" means there is a portion of trees that are plants. However, it doesn't tell us about the entirety of trees or plants.
+
+Applying these relationships to draw conclusions:
+
+A. All roses are plants: We know all roses are flowers, but there's no statement that directly says all flowers are plants. So, we cannot conclude that all roses are plants. Hence, A is NOT correct.
+
+B. Some plants are not flowers: From the statement "Some trees are plants", and since no trees are flowers, it is evident that there are plants that are not flowers. Hence, B is correct.
+
+C. No roses are trees: Since all roses are flowers and no flowers are trees, we can conclude that no roses are trees. Hence, C is correct.
+
+D. All trees are roses: This cannot be concluded from any of the given statements. Hence, D is NOT correct.
+
+E. Some plants are trees: From the statement "Some trees are plants", we can directly conclude that some plants are trees. Hence, E is correct.
+
+Final Answer: Given the analysis, the correct conclusions are B, C, and E.
+
+Create a similar {PROBLEM} to the examples above (just the problem):
