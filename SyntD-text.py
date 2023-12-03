@@ -33,7 +33,7 @@ def chatgpt(api_key, conversation, chatbot_prompt, solver, temperature=0.7, freq
     messages_input.insert(0, prompt[0])
     
     completion = openai.ChatCompletion.create(
-        model="gpt-4-0613",
+        model="gpt-4-1106-preview",
         temperature=temperature,
         frequency_penalty=frequency_penalty,
         presence_penalty=presence_penalty,
@@ -50,7 +50,7 @@ num_loops = 2
 for i in range(num_loops):
     problem = open_file('problems.txt')
     prob1 = chatgpt(api_key, conversation, chatbot_prompt, problem)
-    solver = open_file('prompt1.txt').replace("<<PROBLEM>>", prob1)
+    solver = open_file('prompt1.txt').replace("<<SELLER>>", prob1)
     response = chatgpt(api_key, conversation, chatbot_prompt, solver)
     
     # Create a unique filename using the current timestamp

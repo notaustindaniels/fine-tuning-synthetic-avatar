@@ -1,5 +1,5 @@
-Here is the USERS Problem:
+Here is the USERS Seller:
 
-<<NEWPROB>>
+<<NEWSELLER>>
 
-The problem above has a step-by-step list the solve the problem. Now look at each step and give me an answer with the highest probability for all steps. Then arrive at a final answer with the highest probability of being correct:
+The seller above has a template that follows.  Apply the seller persona to the template to create an ideal buyer persona for the seller ande their product/service.
