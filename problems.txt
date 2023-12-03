@@ -1,119 +1,290 @@
-Your task is to create 1 problem that involves a complex 
-problem that can only be solved in a step-by-stey way:
+problems.txt
+
+
+Your task is to apply 1 seller persona to a sales script to create a cohesive narrative of how that seller created their product or service:
 
 Here are some examples the USER has provided:
 
 Example 1:
 
-PROBLEM:
-"Lucas is a 35-year-old man from Australia. He's currently reading a book in England's oldest university's main library. The author of this book often reminds him of a famous character from a magical movie he watched as a kid. What is the primary means of transportation for that movie character?"
+SELLER =
+1. Name: Austin Daniels
+2. Location: Orlando, FL, United States
+3. Age: 27
+4. Gender: Male
+5. Education Level: AA
+6. Income: $35k
+7. Ethnicity: Hispanic/White
+8. Language: English
+9. Religious Beliefs: Catholic
+10. Current Occupation / Identity: Window Installer
+11. Ideal Identity / Accomplishment: Quantum Physicist
+12. What are you currently doing to reach your ideal identity / accomplishment?: Learning AI to build businesses that can supplement my educational journey, Self-studying quantum mechanics, attending public lectures and online courses
+13. What brand(s) or tool(s) does your ideal customer already use?: Clickfunnels
+14. What type of main thing are you offering?: software
+15. What’s the name it?: AI Funnel Builder
+16. What does it allow your customer to do?: build sales funnels at the push of a button
+17. What are you charging for it?: $30/funnel
 
-ASSIGNMENTS =
+ASSIGNMENT =
 
-Without solving the problem just yet, think through this carefully and list systematically and in detail all the problems in the riddle that need to be solved before we can arrive at the correct answer.
-Solve the problem step-by-step.
+‘’’
+
+Below is a 'fill in the blank' sales script that illustrates the ‘ideal buyer’ of the user’s product/service.  I've filled in the portions inside the brackets with context and an example of what to fill in the blanks with if the script was being used to illustrate a struggling writer. What's in the [] is just an example for context to assist you.  Please do not include any information inside the [] for your new script. You are the USER persona from the previous prompt.  
+
+Rewrite the script using your life experiences.
+SPEAK IN AN INFORMAL STYLE.
+
+‘’’
+
+
+My avatar's name is [What is your avatar's name? Ex: Fred].
+
+[What is your avatar's name? Ex: Fred] is a [What is your avatar's current identity? Ex: struggling, part-time writer] who dreams of becoming a [What is your avatar's ideal identity? Ex: New York Times best selling author].
+
+Currently, [What is your avatar's name? Ex: Fred]'s focus is on [What is your avatar's #1 most important area of focus? (2-3 word keyword phrase). Ex: ebook promotion].
+
+Ultimately, [What is your avatar's name? Ex: Fred] really wants to [What is your avatar's #1 long-term desire? (VERB). Ex: stop working for a boss].
+
+Right this minute, [What is your avatar's name? Ex: Fred] would be ecstatic if [What is your avatar's pronoun? Ex: he] could [What is the #1 immediate result your avatar wants right now? Ex: make more book sales].
+
+Unfortunately, [What is your avatar's name? Ex: Fred] still needs to figure out how to [What is the #1 problem your avatar needs to solve? Ex: get more exposure without going broke buying ads].
+
+[What is your avatar's name? Ex: Fred] is also really frustrated by the fact that [What is the #1 pain point that really frustrates your avatar? Ex: Amazon is super crowded with competing authors].
+
+Plus, [What is your avatar's pronoun? Ex: he] still needs the answer to this question before [What is your avatar's pronoun? Ex: he] can move forward: "[What is the #1 critical question your avatar needs answered so they can move forward? Ex: how do I build a real business around my book?]"
+
+[What is your avatar's name? Ex: Fred] is also still hung up on the idea that [What is the #1 objection or roadblock that prevents your avatar from moving forward? Ex: selling is sleazy and manipulative].
+
+In fact, when it comes to [What is your avatar's #1 most important area of focus? (2-3 word keyword phrase). Ex: ebook promotion], [What is your avatar's pronoun? Ex: he] is convinced that [Who is your avatar's enemy (person)? (Singular). Ex: traditional publisher]s actually want [What is your avatar's personal pronoun? Ex: him] to FAIL.
+
+When all is said and done, [What is your avatar's name? Ex: Fred] just wants to [When all is said and done, what is the #1 thing your avatar wants to be able to do? Ex: live the dream lifestyle of a successful author].
+
+To help [What is your avatar's name? Ex: Fred] I would invite [What is your avatar's personal pronoun? Ex: him] to check out my [What exactly are you selling? Ex: software], [What is the Title or Name of the product, service or software you can offer your ideal customer here? Ex: Author Wizards], so [What is your avatar's pronoun? Ex: he] can [What is the #1 Result your avatar gets from your offer? (Starts with a VERB). Ex: experience true freedom as an author doing what you love] without [What is the #1 Pain your avatar can avoid with what you offer? (Verb ending in ING). Ex: having to write a new book every week].
+
+What makes this even better?
+
+[What is your avatar's pronoun? Ex: he]'ll start to see results in as little as [In what timeframe can you deliver results? Ex: 15 minutes]!
+
+Here's exactly what [What is your avatar's name? Ex: Fred] will get with the "[What is the Title or Name of the product, service or software you can offer your ideal customer here? Ex: Author Wizards]" [What exactly are you selling? Ex: software]
+
+[What's the Title / Name of this part of your offer? Ex: Author Wizards] ([What's the monetary Value of this part of your offer? Ex: $59,000] Value)
+This [What is this? (1-3 words). Ex: software] makes it easy to [What does this offer element do for them? Ex: get all your content marketing and sales copy created], [What is the BENEFIT of this feature (above)? Ex: market your books consistently across social media and other platforms], and [What does this feature & benefit together MEAN to them in their life, business, goals, etc.? (connect to an EMOTIONALLY charged payoff). Ex: expand your audience and change the world].
+
+[What's the Title / Name of this part of your offer? Ex: Monthly Live Masterclasses] ([What's the monetary Value of this part of your offer? Ex: $6,000] Value)
+This [What is this? (1-3 words). Ex: monthly live training] makes it easy to [What does this offer element do for them? Ex: stay up to date in the world of book marketing], [What is the [What is the BENEFIT of this feature (above)? Ex: Benefit] of this feature (above)? Ex: turn your book business into a REAL business], and [What does this feature & benefit together MEAN to them in their life, business, goals, etc.? (connect to an EMOTIONALLY charged payoff). Ex: spread your message for even greater impact].
+
+[What's the Title / Name of this part of your offer? Ex: Author Wizards Blueprints & Recipes] ([What's the monetary Value of this part of your offer? Ex: $497] Value)
+This [What is this? (1-3 words). Ex: roadmap] makes it easy to [What does this offer element do for them? Ex: know exactly which wizards to use and when], [What is the BENEFIT of this feature (above)? Ex: quickly create the content marketing and sales messages you need], and [What does this feature & benefit together MEAN to them in their life, business, goals, etc.? (connect to an EMOTIONALLY charged payoff). Ex: focus on building and scaling your business rather than struggling to figure out what to do].
+
+[What's the Title / Name of this part of your offer? Ex: Offer Element Title] ([What's the monetary Value of this part of your offer? Ex: $XXX Highest Possible Price] Value)
+This [What is this? (1-3 words). Ex: Product] makes it easy to [What does this offer element do for them? Ex: Element Feature], [What is the BENEFIT of this feature (above)? Ex: Benefit], and [What does this feature & benefit together MEAN to them in their life, business, goals, etc.? (connect to an EMOTIONALLY charged payoff). Ex: Meaning].
+
+[What's the Title / Name of this part of your offer? Ex: Offer Element Title] ([What's the monetary Value of this part of your offer? Ex: $XXX Highest Possible Price] Value)
+This [What is this? (1-3 words). Ex: Product] makes it easy to [What does this offer element do for them? Ex: Element Feature], [What is the BENEFIT of this feature (above)? Ex: Benefit], and [What does this feature & benefit together MEAN to them in their life, business, goals, etc.? (connect to an EMOTIONALLY charged payoff). Ex: Meaning].
+
+[What's the Title / Name of this part of your offer? Ex: Offer Element Title] ([What's the monetary Value of this part of your offer? Ex: $XXX Highest Possible Price] Value)
+This [What is this? (1-3 words). Ex: Product] makes it easy to [What does this offer element do for them? Ex: Element Feature], [What is the BENEFIT of this feature (above)? Ex: Benefit], and [What does this feature & benefit together MEAN to them in their life, business, goals, etc.? (connect to an EMOTIONALLY charged payoff). Ex: Meaning].
+
+
+‘’’
+
+What would the seller’s ideal buyer be?  What would their personality and demographics be like?  What would their life story have been like?  Use the seller’s product/service, as well as the above script to craft the ideal buyer for seller’s product/service.  Fill in the blanks using the seller information.  For example, the name of their offer should be used as the placeholder for “[What is the Title or Name of the product, service or software you can offer your ideal customer here?: Author Wizards]” instead of “Author Wizards”.  Also, the section of "What does it allow your customer to do?" from the seller information, should be used as the placeholder for [What does this offer element do for them? Ex: get all your content marketing and sales copy created] instead of “get all your content marketing and sales copy created”.  SPEAK IN AN INFORMAL STYLE.
+
+‘’’
 
 RESPONSE:
 
-Problems that need to be solved:
-
-1. Identifying the University: The riddle mentions "England's oldest university." We need to determine which university this refers to.
-2. Identifying the Library: After figuring out the university, we need to find its main library.
-3. Identifying the Book Author: We should determine which author's works are available in this library and are associated with a magical world that could remind Lucas of a movie from his childhood.
-4. Associating the Book Author with a Movie Character: Once we have the author, we should associate him/her with a movie character from a magical world.
-5. Determining the Movie Character’s Primary Transportation: After identifying the character, we need to figure out the primary means of transportation that this character uses.
-
-Let’s solve it step by step:
-
-1. Identifying the University: England's oldest university is the University of Oxford.
-2. Identifying the Library: The main library at the University of Oxford is the Bodleian Library.
-3. Identifying the Book Author: Considering Lucas is reminded of a magical movie from his childhood, the author could be J.K. Rowling, who wrote the "Harry Potter" series.
-4. Associating the Book Author with a Movie Character: J.K. Rowling's most famous character from the "Harry Potter" series is Harry Potter himself.
-5. Determining the Movie Character’s Primary Transportation: Harry Potter's primary means of magical transportation is a broomstick, specifically the Nimbus 2000 and later the Firebolt.
-
-Final Answer: Therefore, the answer to the riddle is a broomstick.
+My avatar's name is Jake.
+Jake is a hardworking small business owner who dreams of becoming a successful digital entrepreneur.
+Currently, Jake's focus is on digital marketing efficiency.
+Ultimately, Jake really wants to achieve financial freedom.
+Right this minute, Jake would be ecstatic if he could streamline his online marketing efforts.
+Unfortunately, Jake still needs to figure out how to maximize his online presence without breaking the bank.
+Jake is also really frustrated by the fact that the digital marketing world is overwhelming and confusing.
+Plus, he still needs the answer to this question before he can move forward: "How do I create effective sales funnels without spending all my time on it?"
+Jake is also still hung up on the idea that sophisticated digital tools are too complex and expensive.
+In fact, when it comes to digital marketing efficiency, Jake is convinced that big tech companies actually want him to struggle.
+When all is said and done, Jake just wants to leverage the internet to grow his business.
+To help Jake, I would invite him to check out my software, AI Funnel Builder, so he can build sales funnels at the push of a button without getting lost in the technicalities.
+What makes this even better?
+He'll start to see results in as little as a few hours!
+Here's exactly what Jake will get with the "AI Funnel Builder" software:
+AI Funnel Builder ($3,000 Value)
+This software makes it easy to build sales funnels at the push of a button, saving you time and energy, and allowing you to focus on growing your business and achieving your dreams.
+Sales Funnel Analytics ($700 Value)
+This feature makes it easy to track the performance of your funnels, helping you optimize for better results, and guiding you to make data-driven decisions for your business growth.
+Customizable Templates ($800 Value)
+These templates make it easy to create professional and effective funnels, giving you the flexibility to match your brand, and empowering you to capture and convert your target audience efficiently.
+Ongoing Support ($400 Value)
+This feature ensures you have the guidance you need to effectively use the software, helping you navigate any challenges, and ensuring you maximize the potential of your digital marketing efforts.
+Community Access (Priceless Value)
+This access provides you with a network of like-minded entrepreneurs, enabling you to share insights and strategies, and creating an environment for mutual growth and success.
 
 Example 2:
 
-PROBLEM = You are a king and you've just received 1000 bottles of wine as a gift. However, you've been informed that one of those bottles is poisoned. The poison is so potent that even if just one drop is ingested, the person will die exactly 24 hours later. You have 10 prisoners whom you don't mind sacrificing for the test. How can you determine, in just 24 hours, which bottle is poisoned?
+SELLER = 
+1. Name: Aisha Patel
+2. Location: Birmingham, UK
+3. Age: 31
+4. Gender: Female
+5. Education Level: Master's Degree in Business Administration
+6. Income: $50,000 per year
+7. Ethnicity: British Indian
+8. Language: English, Gujarati
+9. Religious Beliefs: Hindu
+10. Current Identity or Occupation: Secretary at a law firm
+11. Ideal Identity / Accomplishment: Famous Music Producer
+12. What are you currently doing to reach your ideal identity / accomplishment?: Producing music in her home studio, collaborating with local artists
+13. What brand(s) or tool(s) does your ideal customer already use?: Ableton Live, FL Studio, Apple Logic Pro
+14. What type of main thing are you offering?: A program on music production and the business of music
+15. What’s the name of it?: "BeatCraft: The Art and Business of Music Production"
+16. What does it allow your customer to do?: create professional-quality music and navigate the music industry
+17. What are you charging for it?: $47/mo
 
 ASSIGNMENTS =
 
-1. Without solving the problem just yet, think through this carefully and list systematically and in detail all the problems in the riddle that need to be solved before we can arrive at the correct answer.
-2. Solve the problem step-by-step.
+‘’’
+
+Below is a 'fill in the blank' sales script that illustrates the ‘ideal buyer’ of the user’s product/service.  I've filled in the portions inside the brackets with context and an example of what to fill in the blanks with if the script was being used to illustrate a struggling writer. What's in the [] is just an example for context to assist you.  Please do not include any information inside the [] for your new script. You are the USER persona from the previous prompt.  
+
+Rewrite the script using your life experiences.
+SPEAK IN AN INFORMAL STYLE.
+
+‘’’
+
+
+My avatar's name is [What is your avatar's name? Ex: Fred].
+
+[What is your avatar's name? Ex: Fred] is a [What is your avatar's current identity? Ex: struggling, part-time writer] who dreams of becoming a [What is your avatar's ideal identity? Ex: New York Times best selling author].
+
+Currently, [What is your avatar's name? Ex: Fred]'s focus is on [What is your avatar's #1 most important area of focus? (2-3 word keyword phrase). Ex: ebook promotion].
+
+Ultimately, [What is your avatar's name? Ex: Fred] really wants to [What is your avatar's #1 long-term desire? (VERB). Ex: stop working for a boss].
+
+Right this minute, [What is your avatar's name? Ex: Fred] would be ecstatic if [What is your avatar's pronoun? Ex: he] could [What is the #1 immediate result your avatar wants right now? Ex: make more book sales].
+
+Unfortunately, [What is your avatar's name? Ex: Fred] still needs to figure out how to [What is the #1 problem your avatar needs to solve? Ex: get more exposure without going broke buying ads].
+
+[What is your avatar's name? Ex: Fred] is also really frustrated by the fact that [What is the #1 pain point that really frustrates your avatar? Ex: Amazon is super crowded with competing authors].
+
+Plus, [What is your avatar's pronoun? Ex: he] still needs the answer to this question before [What is your avatar's pronoun? Ex: he] can move forward: "[What is the #1 critical question your avatar needs answered so they can move forward? Ex: how do I build a real business around my book?]"
+
+[What is your avatar's name? Ex: Fred] is also still hung up on the idea that [What is the #1 objection or roadblock that prevents your avatar from moving forward? Ex: selling is sleazy and manipulative].
+
+In fact, when it comes to [What is your avatar's #1 most important area of focus? (2-3 word keyword phrase). Ex: ebook promotion], [What is your avatar's pronoun? Ex: he] is convinced that [Who is your avatar's enemy (person)? (Singular). Ex: traditional publisher]s actually want [What is your avatar's personal pronoun? Ex: him] to FAIL.
+
+When all is said and done, [What is your avatar's name? Ex: Fred] just wants to [When all is said and done, what is the #1 thing your avatar wants to be able to do? Ex: live the dream lifestyle of a successful author].
+
+To help [What is your avatar's name? Ex: Fred] I would invite [What is your avatar's personal pronoun? Ex: him] to check out my [What exactly are you selling? Ex: software], [What is the Title or Name of the product, service or software you can offer your ideal customer here? Ex: Author Wizards], so [What is your avatar's pronoun? Ex: he] can [What is the #1 Result your avatar gets from your offer? (Starts with a VERB). Ex: experience true freedom as an author doing what you love] without [What is the #1 Pain your avatar can avoid with what you offer? (Verb ending in ING). Ex: having to write a new book every week].
+
+What makes this even better?
+
+[What is your avatar's pronoun? Ex: he]'ll start to see results in as little as [In what timeframe can you deliver results? Ex: 15 minutes]!
+
+Here's exactly what [What is your avatar's name? Ex: Fred] will get with the "[What is the Title or Name of the product, service or software you can offer your ideal customer here? Ex: Author Wizards]" [What exactly are you selling? Ex: software]
+
+[What's the Title / Name of this part of your offer? Ex: Author Wizards] ([What's the monetary Value of this part of your offer? Ex: $59,000] Value)
+This [What is this? (1-3 words). Ex: software] makes it easy to [What does this offer element do for them? Ex: get all your content marketing and sales copy created], [What is the BENEFIT of this feature (above)? Ex: market your books consistently across social media and other platforms], and [What does this feature & benefit together MEAN to them in their life, business, goals, etc.? (connect to an EMOTIONALLY charged payoff). Ex: expand your audience and change the world].
+
+[What's the Title / Name of this part of your offer? Ex: Monthly Live Masterclasses] ([What's the monetary Value of this part of your offer? Ex: $6,000] Value)
+This [What is this? (1-3 words). Ex: monthly live training] makes it easy to [What does this offer element do for them? Ex: stay up to date in the world of book marketing], [What is the [What is the BENEFIT of this feature (above)? Ex: Benefit] of this feature (above)? Ex: turn your book business into a REAL business], and [What does this feature & benefit together MEAN to them in their life, business, goals, etc.? (connect to an EMOTIONALLY charged payoff). Ex: spread your message for even greater impact].
+
+[What's the Title / Name of this part of your offer? Ex: Author Wizards Blueprints & Recipes] ([What's the monetary Value of this part of your offer? Ex: $497] Value)
+This [What is this? (1-3 words). Ex: roadmap] makes it easy to [What does this offer element do for them? Ex: know exactly which wizards to use and when], [What is the BENEFIT of this feature (above)? Ex: quickly create the content marketing and sales messages you need], and [What does this feature & benefit together MEAN to them in their life, business, goals, etc.? (connect to an EMOTIONALLY charged payoff). Ex: focus on building and scaling your business rather than struggling to figure out what to do].
+
+[What's the Title / Name of this part of your offer? Ex: Offer Element Title] ([What's the monetary Value of this part of your offer? Ex: $XXX Highest Possible Price] Value)
+This [What is this? (1-3 words). Ex: Product] makes it easy to [What does this offer element do for them? Ex: Element Feature], [What is the BENEFIT of this feature (above)? Ex: Benefit], and [What does this feature & benefit together MEAN to them in their life, business, goals, etc.? (connect to an EMOTIONALLY charged payoff). Ex: Meaning].
+
+[What's the Title / Name of this part of your offer? Ex: Offer Element Title] ([What's the monetary Value of this part of your offer? Ex: $XXX Highest Possible Price] Value)
+This [What is this? (1-3 words). Ex: Product] makes it easy to [What does this offer element do for them? Ex: Element Feature], [What is the BENEFIT of this feature (above)? Ex: Benefit], and [What does this feature & benefit together MEAN to them in their life, business, goals, etc.? (connect to an EMOTIONALLY charged payoff). Ex: Meaning].
+
+[What's the Title / Name of this part of your offer? Ex: Offer Element Title] ([What's the monetary Value of this part of your offer? Ex: $XXX Highest Possible Price] Value)
+This [What is this? (1-3 words). Ex: Product] makes it easy to [What does this offer element do for them? Ex: Element Feature], [What is the BENEFIT of this feature (above)? Ex: Benefit], and [What does this feature & benefit together MEAN to them in their life, business, goals, etc.? (connect to an EMOTIONALLY charged payoff). Ex: Meaning].
+
+
+‘’’
+
+What would the seller’s ideal buyer be?  What would their personality and demographics be like?  What would their life story have been like?  Use the seller’s product/service, as well as the above script to craft the ideal buyer for seller’s product/service.  Fill in the blanks using the seller information.  For example, the name of their offer should be used as the placeholder for “[What is the Title or Name of the product, service or software you can offer your ideal customer here?: Author Wizards]” instead of “Author Wizards”.  Also, the section of "What does it allow your customer to do?" from the seller information, should be used as the placeholder for [What does this offer element do for them? Ex: get all your content marketing and sales copy created] instead of “get all your content marketing and sales copy created”.  SPEAK IN AN INFORMAL STYLE.
+
+‘’’
 
 RESPONSE:
 
-Problems that need to be solved:
+My avatar's name is Jamie.
+Jamie is a passionate music enthusiast who dreams of becoming a recognized music producer.
+Currently, Jamie's focus is on honing their production skills.
+Ultimately, Jamie really wants to make a name for themselves in the music industry.
+Right this minute, Jamie would be ecstatic if they could produce a track that gets noticed by industry professionals.
+Unfortunately, Jamie still needs to figure out how to navigate the complex music industry.
+Jamie is also really frustrated by the fact that they don't have access to professional-quality tools and mentorship.
+Plus, they still need the answer to this question before they can move forward: "How do I create music that stands out and appeals to a broad audience?"
+Jamie is also still hung up on the idea that you need to have a lot of money or connections to make it big.
+In fact, when it comes to their music career, Jamie is convinced that the industry gatekeepers actually want them to FAIL.
+When all is said and done, Jamie just wants to share their music with the world and make a living doing what they love.
+To help Jamie, I would invite them to check out my program, "BeatCraft: The Art and Business of Music Production," so they can create professional-quality music and navigate the music industry without feeling overwhelmed and lost.
+What makes this even better?
+They'll start to see results in as little as a few weeks!
+Here's exactly what Jamie will get with "BeatCraft: The Art and Business of Music Production"
+BeatCraft Core Modules ($2,000 Value)
+This comprehensive program makes it easy to create professional-quality music and navigate the music industry, empowering you to develop your unique sound, understand industry dynamics, and make connections that matter.
+Monthly Live Q&A Sessions ($1,200 Value)
+This monthly interactive session makes it easy to get personalized advice and stay updated with industry trends, turning your passion into a sustainable career, and fostering a sense of community among like-minded artists.
+BeatCraft Community Access ($500 Value)
+This exclusive community access makes it easy to connect with fellow producers, share ideas and collaborate, leading to endless inspiration and potential partnerships.
+Marketing and Branding Toolkit ($800 Value)
+This toolkit makes it easy to promote your music, build a personal brand, and reach your target audience, translating your artistic vision into a successful and recognizable music brand.
+Personalized Feedback on Tracks ($1,500 Value)
+This direct feedback from industry professionals makes it easy to refine your music, ensure quality production, and adapt to industry standards, greatly enhancing your skills and confidence as a producer.
 
-1. Time Constraint: We have just 24 hours to find the poisoned bottle, which means we can only test the wine once with each prisoner, as they will die 24 hours after ingesting the poison.
-2. Bottle Identification: There are 1000 bottles and only 10 prisoners. How do we differentiate or label the bottles in a manner that allows us to use the fewest number of prisoners to identify the poisoned bottle?
-3. Quantity of Wine Needed for Test: Since even a drop can kill, we need to strategize how to use the minimal amount of wine from each bottle for testing.
-4. Numbering System: We need an efficient system to distribute the bottles amongst the prisoners in such a way that the death of any combination of them will precisely indicate the poisoned bottle.
-
-Let’s solve it step by step:
-
-1. Time Constraint: The constraint remains, and we will have to make our decisions based on one round of testing.
-2. Bottle Identification: Instead of thinking in terms of base-10 (which is our usual numbering system), we can think in terms of base-2, or binary. With 10 prisoners, we can represent each bottle with a 10-digit binary number, ranging from 0000000001 to 1111101000. This covers all 1000 bottles (as 2^10 = 1024).
-3. Quantity of Wine Needed for Test: Given that even a drop is lethal, we only need to give a drop from a particular bottle to a prisoner to test it.
-4. Numbering System:
-Label each bottle with a unique 10-digit binary number.
-Assign each prisoner to a specific position in the 10-digit binary number.
-Give each prisoner a drop of wine from bottles where their assigned position is a '1'.
-For example:
-Prisoner 1 takes a drop from every bottle labeled with a '1' in the last position of the binary number.
-Prisoner 2 takes a drop from every bottle labeled with a '1' in the second last position, and so on.
-After 24 hours, the combination of prisoners that die will give us the binary number of the poisoned bottle.
-
-For instance, if prisoners 1, 3, and 5 die, then the poisoned bottle's binary label is 000010101 (or 0000101010 if we're using 10 digits, but the last 0 can be dropped for simplicity). This binary corresponds to a unique bottle among the 1000.
-
-Final Answer: Therefore, by observing which combination of prisoners dies, you can directly identify the poisoned bottle.
 
 Example 3:
-PROBLEM = Consider the following statements:
+SELLER = 
+1. Name: Sarah Chen
+2. Location: Toronto, Ontario, Canada
+3. Age: 27
+4. Gender: Female
+5. Education Level: High School Diploma
+6. Income: $30,000 per year
+7. Ethnicity: Asian-Canadian
+8. Language: English, Mandarin
+9. Religious Beliefs: Buddhist
+10. Current Identity or Occupation: Busy mom and part-time bookkeeper
+11. Ideal Identity / Accomplishment: Fitness Influencer and Personal Trainer
+12. What are you currently doing to reach your ideal identity / accomplishment?: Attending a personal training certification program, sharing fitness tips on social media
+13. What brand(s) or tool(s) does your ideal customer already use?: Fitbit, Nike Training Club, MyFitnessPal
+14. What type of main thing are you offering?: A comprehensive fitness and nutrition guide
+15. What’s the name of it?: "Fit For Life: The Everyday Woman's Guide to Health & Fitness"
+16. What does it allow your customer to do?: achieve fitness goals with practical, everyday exercises and nutrition plans
+17. What are you charging for it?: $97
 
-All roses are flowers.
-No flowers are trees.
-Some trees are plants.
+RESPONSE = 
+My avatar's name is Emma.
+Emma is a busy, working mom who dreams of becoming a healthier, more energetic version of herself.
+Currently, Emma's focus is on finding time for fitness and wellness.
+Ultimately, Emma really wants to feel confident and energized.
+Right this minute, Emma would be ecstatic if she could find a simple, effective fitness routine that fits into her hectic schedule.
+Unfortunately, Emma still needs to figure out how to balance her work, family life, and personal health goals.
+Emma is also really frustrated by the fact that most fitness programs don't cater to her busy lifestyle.
+Plus, she still needs the answer to this question before she can move forward: "How do I stay motivated and consistent with my fitness routine?"
+Emma is also still hung up on the idea that getting fit requires hours at the gym or expensive equipment.
+In fact, when it comes to finding time for fitness, Emma is convinced that most fitness guides actually want her to FAIL.
+When all is said and done, Emma just wants to feel good in her own skin and have the energy to keep up with her kids.
+To help Emma, I would invite her to check out my fitness and nutrition guide, "Fit For Life: The Everyday Woman's Guide to Health & Fitness," so she can achieve fitness goals with practical, everyday exercises and nutrition plans without feeling overwhelmed or giving up her precious family time.
+What makes this even better?
+She'll start to see results in as little as a few weeks!
+Here's exactly what Emma will get with the "Fit For Life: The Everyday Woman's Guide to Health & Fitness":
+"Fit For Life: The Everyday Woman's Guide to Health & Fitness" (Invaluable Value)
+This guide makes it easy to fit workouts into a busy schedule, gives tips for nutritious, quick meals, and connects to her desire to be a role model for her family.
+"Personalized Workout Plans" ($1000 Value)
+This feature offers routines that can be done at home or on-the-go, catering to Emma's need for flexibility and efficiency, and helping her feel accomplished and in control of her health.
+"Nutrition and Meal Prep Tips" ($600 Value)
+This section provides easy, healthy recipes and meal prep strategies, saving Emma time and making healthy eating practical and enjoyable, enhancing her overall well-being and daily energy levels.
+"Mindfulness and Stress-Relief Techniques" ($800 Value)
+These techniques help Emma manage stress and find mental balance, improving her overall quality of life and giving her tools to handle everyday challenges with more calm and positivity.
+"Customizable Fitness Tracker" ($300 Value)
+This digital tool allows Emma to track her progress, set goals, and celebrate achievements. It’s designed to adapt to her personal fitness level and preferences, helping her stay motivated and see tangible results. This tracker reinforces her commitment to her health journey, making her feel empowered and in control of her fitness goals.
+"Community Support and Motivation" (Priceless Value)
+This community aspect offers a network of like-minded individuals, encouraging Emma to stay on track and share her journey, making her fitness journey less lonely and more empowering.
 
-Which of the following conclusions can be drawn from the above statements?
-
-A. All roses are plants.
-B. Some plants are not flowers.
-C. No roses are trees.
-D. All trees are roses.
-E. Some plants are trees.
-
-Problems that need to be solved:
-
-1. Understanding the Relationship Between Roses and Flowers: We need to analyze the statement "All roses are flowers."
-2. Understanding the Relationship Between Flowers and Trees: We need to decipher the meaning of the statement "No flowers are trees."
-3. Understanding the Relationship Between Trees and Plants: We must look into the statement "Some trees are plants."
-4. Applying these relationships to draw conclusions: With the given information, we need to see which of the conclusions A through E can be logically inferred.
-
-Let’s solve it step by step:
-
-1. Understanding the Relationship Between Roses and Flowers:
-The statement "All roses are flowers" means every rose is a flower, but not every flower is necessarily a rose.
-
-2. Understanding the Relationship Between Flowers and Trees:
-The statement "No flowers are trees" means there is no overlap between flowers and trees. They are mutually exclusive categories.
-
-3. Understanding the Relationship Between Trees and Plants:
-The statement "Some trees are plants" means there is a portion of trees that are plants. However, it doesn't tell us about the entirety of trees or plants.
-
-Applying these relationships to draw conclusions:
-
-A. All roses are plants: We know all roses are flowers, but there's no statement that directly says all flowers are plants. So, we cannot conclude that all roses are plants. Hence, A is NOT correct.
-
-B. Some plants are not flowers: From the statement "Some trees are plants", and since no trees are flowers, it is evident that there are plants that are not flowers. Hence, B is correct.
-
-C. No roses are trees: Since all roses are flowers and no flowers are trees, we can conclude that no roses are trees. Hence, C is correct.
-
-D. All trees are roses: This cannot be concluded from any of the given statements. Hence, D is NOT correct.
-
-E. Some plants are trees: From the statement "Some trees are plants", we can directly conclude that some plants are trees. Hence, E is correct.
-
-Final Answer: Given the analysis, the correct conclusions are B, C, and E.
-
-Create a similar {PROBLEM} to the examples above (just the problem):
+Create a similar {SELLER} to the examples above (just the seller):
