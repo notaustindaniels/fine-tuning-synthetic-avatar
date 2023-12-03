@@ -1,7 +1,7 @@
 # chatgpt-3-5-turbo-finetuning
 ChatGPT 3.5 Turbo Fine Tuning
 
-Full credit for this repo goes to  [All About AI](https://github.com/All-About-AI-YouTube) and his [YouTube video] (https://www.youtube.com/watch?v=ceSu1w_CzXA&t=368s)
+Full credit for this repo goes to  [All About AI](https://github.com/All-About-AI-YouTube) and his [video tutorial](https://www.youtube.com/watch?v=ceSu1w_CzXA&t=368s)
 
 1. Set Your OpenAI key in "openaiapikey2.txt"
 2. Upload your JSONL Dataset with finet.py

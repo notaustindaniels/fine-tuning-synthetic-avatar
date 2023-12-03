@@ -1,7 +1,5 @@
 Here are some examples the USER has provided:
 
-Here are some examples the USER has provided:
-
 Example 1:
 
 SELLER =
@@ -23,7 +21,7 @@ SELLER =
 16. What does it allow your customer to do?: build sales funnels at the push of a button
 17. What are you charging for it?: $30/funnel
 
-ASSIGNMENT =
+ASSIGNMENTS =
 
 ‘’’
 
@@ -238,7 +236,7 @@ SELLER:
 
 <<SELLER>>
 
-Your task is to complete the ASSIGNMENT.
+Your task is to complete the ASSIGNMENTS.
 
 ASSIGNMENTS = 
 

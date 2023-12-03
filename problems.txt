@@ -1,6 +1,3 @@
-problems.txt
-
-
 Your task is to apply 1 seller persona to a sales script to create a cohesive narrative of how that seller created their product or service:
 
 Here are some examples the USER has provided:
@@ -257,6 +254,73 @@ SELLER =
 15. What’s the name of it?: "Fit For Life: The Everyday Woman's Guide to Health & Fitness"
 16. What does it allow your customer to do?: achieve fitness goals with practical, everyday exercises and nutrition plans
 17. What are you charging for it?: $97
+
+ASSIGNMENTS =
+
+‘’’
+
+Below is a 'fill in the blank' sales script that illustrates the ‘ideal buyer’ of the user’s product/service.  I've filled in the portions inside the brackets with context and an example of what to fill in the blanks with if the script was being used to illustrate a struggling writer. What's in the [] is just an example for context to assist you.  Please do not include any information inside the [] for your new script. You are the USER persona from the previous prompt.  
+
+Rewrite the script using your life experiences.
+SPEAK IN AN INFORMAL STYLE.
+
+‘’’
+
+
+My avatar's name is [What is your avatar's name? Ex: Fred].
+
+[What is your avatar's name? Ex: Fred] is a [What is your avatar's current identity? Ex: struggling, part-time writer] who dreams of becoming a [What is your avatar's ideal identity? Ex: New York Times best selling author].
+
+Currently, [What is your avatar's name? Ex: Fred]'s focus is on [What is your avatar's #1 most important area of focus? (2-3 word keyword phrase). Ex: ebook promotion].
+
+Ultimately, [What is your avatar's name? Ex: Fred] really wants to [What is your avatar's #1 long-term desire? (VERB). Ex: stop working for a boss].
+
+Right this minute, [What is your avatar's name? Ex: Fred] would be ecstatic if [What is your avatar's pronoun? Ex: he] could [What is the #1 immediate result your avatar wants right now? Ex: make more book sales].
+
+Unfortunately, [What is your avatar's name? Ex: Fred] still needs to figure out how to [What is the #1 problem your avatar needs to solve? Ex: get more exposure without going broke buying ads].
+
+[What is your avatar's name? Ex: Fred] is also really frustrated by the fact that [What is the #1 pain point that really frustrates your avatar? Ex: Amazon is super crowded with competing authors].
+
+Plus, [What is your avatar's pronoun? Ex: he] still needs the answer to this question before [What is your avatar's pronoun? Ex: he] can move forward: "[What is the #1 critical question your avatar needs answered so they can move forward? Ex: how do I build a real business around my book?]"
+
+[What is your avatar's name? Ex: Fred] is also still hung up on the idea that [What is the #1 objection or roadblock that prevents your avatar from moving forward? Ex: selling is sleazy and manipulative].
+
+In fact, when it comes to [What is your avatar's #1 most important area of focus? (2-3 word keyword phrase). Ex: ebook promotion], [What is your avatar's pronoun? Ex: he] is convinced that [Who is your avatar's enemy (person)? (Singular). Ex: traditional publisher]s actually want [What is your avatar's personal pronoun? Ex: him] to FAIL.
+
+When all is said and done, [What is your avatar's name? Ex: Fred] just wants to [When all is said and done, what is the #1 thing your avatar wants to be able to do? Ex: live the dream lifestyle of a successful author].
+
+To help [What is your avatar's name? Ex: Fred] I would invite [What is your avatar's personal pronoun? Ex: him] to check out my [What exactly are you selling? Ex: software], [What is the Title or Name of the product, service or software you can offer your ideal customer here? Ex: Author Wizards], so [What is your avatar's pronoun? Ex: he] can [What is the #1 Result your avatar gets from your offer? (Starts with a VERB). Ex: experience true freedom as an author doing what you love] without [What is the #1 Pain your avatar can avoid with what you offer? (Verb ending in ING). Ex: having to write a new book every week].
+
+What makes this even better?
+
+[What is your avatar's pronoun? Ex: he]'ll start to see results in as little as [In what timeframe can you deliver results? Ex: 15 minutes]!
+
+Here's exactly what [What is your avatar's name? Ex: Fred] will get with the "[What is the Title or Name of the product, service or software you can offer your ideal customer here? Ex: Author Wizards]" [What exactly are you selling? Ex: software]
+
+[What's the Title / Name of this part of your offer? Ex: Author Wizards] ([What's the monetary Value of this part of your offer? Ex: $59,000] Value)
+This [What is this? (1-3 words). Ex: software] makes it easy to [What does this offer element do for them? Ex: get all your content marketing and sales copy created], [What is the BENEFIT of this feature (above)? Ex: market your books consistently across social media and other platforms], and [What does this feature & benefit together MEAN to them in their life, business, goals, etc.? (connect to an EMOTIONALLY charged payoff). Ex: expand your audience and change the world].
+
+[What's the Title / Name of this part of your offer? Ex: Monthly Live Masterclasses] ([What's the monetary Value of this part of your offer? Ex: $6,000] Value)
+This [What is this? (1-3 words). Ex: monthly live training] makes it easy to [What does this offer element do for them? Ex: stay up to date in the world of book marketing], [What is the [What is the BENEFIT of this feature (above)? Ex: Benefit] of this feature (above)? Ex: turn your book business into a REAL business], and [What does this feature & benefit together MEAN to them in their life, business, goals, etc.? (connect to an EMOTIONALLY charged payoff). Ex: spread your message for even greater impact].
+
+[What's the Title / Name of this part of your offer? Ex: Author Wizards Blueprints & Recipes] ([What's the monetary Value of this part of your offer? Ex: $497] Value)
+This [What is this? (1-3 words). Ex: roadmap] makes it easy to [What does this offer element do for them? Ex: know exactly which wizards to use and when], [What is the BENEFIT of this feature (above)? Ex: quickly create the content marketing and sales messages you need], and [What does this feature & benefit together MEAN to them in their life, business, goals, etc.? (connect to an EMOTIONALLY charged payoff). Ex: focus on building and scaling your business rather than struggling to figure out what to do].
+
+[What's the Title / Name of this part of your offer? Ex: Offer Element Title] ([What's the monetary Value of this part of your offer? Ex: $XXX Highest Possible Price] Value)
+This [What is this? (1-3 words). Ex: Product] makes it easy to [What does this offer element do for them? Ex: Element Feature], [What is the BENEFIT of this feature (above)? Ex: Benefit], and [What does this feature & benefit together MEAN to them in their life, business, goals, etc.? (connect to an EMOTIONALLY charged payoff). Ex: Meaning].
+
+[What's the Title / Name of this part of your offer? Ex: Offer Element Title] ([What's the monetary Value of this part of your offer? Ex: $XXX Highest Possible Price] Value)
+This [What is this? (1-3 words). Ex: Product] makes it easy to [What does this offer element do for them? Ex: Element Feature], [What is the BENEFIT of this feature (above)? Ex: Benefit], and [What does this feature & benefit together MEAN to them in their life, business, goals, etc.? (connect to an EMOTIONALLY charged payoff). Ex: Meaning].
+
+[What's the Title / Name of this part of your offer? Ex: Offer Element Title] ([What's the monetary Value of this part of your offer? Ex: $XXX Highest Possible Price] Value)
+This [What is this? (1-3 words). Ex: Product] makes it easy to [What does this offer element do for them? Ex: Element Feature], [What is the BENEFIT of this feature (above)? Ex: Benefit], and [What does this feature & benefit together MEAN to them in their life, business, goals, etc.? (connect to an EMOTIONALLY charged payoff). Ex: Meaning].
+
+
+‘’’
+
+What would the seller’s ideal buyer be?  What would their personality and demographics be like?  What would their life story have been like?  Use the seller’s product/service, as well as the above script to craft the ideal buyer for seller’s product/service.  Fill in the blanks using the seller information.  For example, the name of their offer should be used as the placeholder for “[What is the Title or Name of the product, service or software you can offer your ideal customer here?: Author Wizards]” instead of “Author Wizards”.  Also, the section of "What does it allow your customer to do?" from the seller information, should be used as the placeholder for [What does this offer element do for them? Ex: get all your content marketing and sales copy created] instead of “get all your content marketing and sales copy created”.  SPEAK IN AN INFORMAL STYLE.
+
+‘’’
 
 RESPONSE = 
 My avatar's name is Emma.
