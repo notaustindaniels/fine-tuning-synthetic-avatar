@@ -26,7 +26,7 @@ chatbot_prompt = open_file('sysprompt.txt')
 # Initialize an empty list to store the conversations for the chatbot
 conversation = []
 
-def chatgpt(api_key, conversation, chatbot_prompt, solver, temperature=0.7, frequency_penalty=0.2, presence_penalty=0):
+def chatgpt(api_key, conversation, chatbot_prompt, solver, temperature=1.4, frequency_penalty=0.2, presence_penalty=0):
     conversation.append({"role": "user", "content": solver})
     messages_input = conversation.copy()
     prompt = [{"role": "system", "content": chatbot_prompt}]

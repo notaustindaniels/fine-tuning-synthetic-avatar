@@ -29,14 +29,14 @@ openai.api_key = api_key
 # Initialize an empty list to store the conversations for the chatbot
 conversation = []
 
-def chatgpt(api_key, conversation, chatbot_prompt, solver, temperature=0.7, frequency_penalty=0.2, presence_penalty=0):
+def chatgpt(api_key, conversation, chatbot_prompt, solver, temperature=1.4, frequency_penalty=0.2, presence_penalty=0):
     conversation.append({"role": "user", "content": solver})
     messages_input = conversation.copy()
     prompt = [{"role": "system", "content": chatbot_prompt}]
     messages_input.insert(0, prompt[0])
     
     completion = openai.ChatCompletion.create(
-        model="gpt-4-0613",
+        model="gpt-4-1106-preview",
         temperature=temperature,
         frequency_penalty=frequency_penalty,
         presence_penalty=presence_penalty,
